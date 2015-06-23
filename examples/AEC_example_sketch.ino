@@ -1,19 +1,19 @@
 /*++++++++++++++++++++++++++++++ Arduino Ethernet Controller +++++++++++++++++++++++++++
   
-This example sets up a basic Ethernet controllable Arduino with the AEC API.
+This example sets up a basic Ethernet controlable Arduino with the AEC API.
 The API makes the Arduino Programming more easy and gives you featues which interact 
 with the Arduino Ethernet Controller Pro App.
 
-This functions are:
+These functions are:
 
   - setup the element which should be importet in the app.
   - give the Arduino a name that is displayed in the network scan.
-  - create easy feedbacks you send in your feedback cell.
+  - create easy feedbacks to display in your feedback cell.
   - change the arduino name and ip address over the app
   - control (pwm) pins over the app without programming
   
   
-A full documentation for the API you can find on http://massimoferrantino.wordpress.com
+You can find a full documentation for the API on our GitHub Wiki
 
 */
 
