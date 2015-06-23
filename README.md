@@ -1,3 +1,5 @@
+# please read the _**WIKI**_
+
 ![](http://a5.mzstatic.com/us/r30/Purple5/v4/d3/8b/b7/d38bb72f-b63f-8e2b-451e-c9dfbbcd5135/icon175x175.jpeg)
 
 The **Arduino Ethernet Controller** API makes it easy to create and customize your Arduino network application. It is easy to set-up and maintain. The library also aims to be lightweight and highly customizable.
