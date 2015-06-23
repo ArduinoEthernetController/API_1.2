@@ -1,0 +1,16 @@
+#########################
+AEC	KEYWORD1
+#########################
+start	KEYWORD2
+searchForClient	KEYWORD2
+searchForAction	KEYWORD2
+searchForColor	KEYWORD2
+createButton	KEYWORD2
+createPinButton	KEYWORD2
+createSlider	KEYWORD2
+createPinSlider	KEYWORD2
+createFeedback	KEYWORD2
+createColor	KEYWORD2
+Feedback	KEYWORD2
+setHTMLrequest	KEYWORD2
+receiveTrigger	KEYWORD2
